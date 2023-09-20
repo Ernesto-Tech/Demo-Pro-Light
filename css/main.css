@@ -1,0 +1,61 @@
+.mainSliderCustomHeight{
+      height: 80vh !important;
+}
+
+.carousel-caption{
+    bottom: 17.5vh;
+}
+
+.main-slider-img-logo{
+    height: 65px;
+    width: auto;
+    margin-bottom: 40px;
+}
+
+.main-slider-title{
+    font-size: 375%;
+}
+
+.main-slider-sub-title{
+      font-size: 187.5%;
+}
+
+.main-slider-btn{
+    margin-top: 40px;
+}
+
+/* Separetor */
+.customSeparetor100{
+    height: 100px;
+}
+
+/* Segunda Pantalla Redes Sociales */
+.bi-youtube,
+.bi-twitter-x,
+.bi-instagram,
+.bi-facebook
+{
+      font-size: 50px;
+}
+
+.card-title{
+    font-weight: 700 !important;
+    color: black;
+}
+
+.card-text{
+    font-size: 12px;
+}
+
+/* Tercer Pantalla */
+.Contact-Card-Label{
+       font-size: 10px;
+}
+
+.contact-card-title{
+    font-size: 1.875rem;
+}
+
+.contact-card-text{
+    font-size: 14px;
+}
