@@ -47,7 +47,7 @@
     font-size: 12px;
 }
 
-/* Tercer Pantalla */
+/* Tercer Pantalla Contactos */
 .Contact-Card-Label{
        font-size: 10px;
 }
@@ -59,3 +59,46 @@
 .contact-card-text{
     font-size: 14px;
 }
+
+/* Quinta Pantalla */
+
+.carousel-caption{
+    bottom:20vh;
+}
+
+.Service-Carousel-Title{
+    font-size: 375%;
+}
+
+.Service-Carousel-SubTitle{
+      font-size: 187.5%;
+}
+
+.main-carousel-btn{
+    margin-top: 40px;
+}
+
+/* SEXTA PANTALLA FORMULARIO  */ 
+.main-submit-btn{
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-size: 15px;
+    background-size: 200%;
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    border: hidden;
+}
+
+
+/* SEPTIMA PANTALLA FOOTER */
+.Footer-text{
+    font-size: 10px;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
